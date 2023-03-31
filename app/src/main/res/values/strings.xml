@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calendar API</string>
+    <string name="button_name">Pick a Holiday!</string>
+</resources>
